@@ -1,0 +1,2 @@
+# NORUS
+Similarity calculation tool
